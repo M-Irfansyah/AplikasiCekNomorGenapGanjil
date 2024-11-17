@@ -32,7 +32,7 @@ private void jTextField1KeyTyped(java.awt.event.KeyEvent evt) {
          evt.consume();
          }
 ~~~
-5. Variasi:
+## 5. Variasi:
 • Tambahkan fitur untuk memeriksa apakah angka tersebut adalah bilangan prima
 ~~~
 if (isPrime(angka)) {
